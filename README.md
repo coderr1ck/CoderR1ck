@@ -88,7 +88,9 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coderr1ck&show_icons=true&hide_border=true&bg_color=0A1128&title_color=00D2FF&icon_color=0072FF&text_color=E0F2FE&ring_color=00D2FF" alt="GitHub Stats" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderr1ck&hide_border=true&background=0A1128&stroke=00D2FF&ring=00D2FF&fire=0072FF&currStreakLabel=00D2FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0072FF" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=coderr1ck&hide_border=true&background=0A1128&stroke=00D2FF&ring=00D2FF&fire=0072FF&currStreakLabel=00D2FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0072FF" alt="GitHub Streak" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=coderr1ck&hide_border=true&background=0A1128&stroke=00D2FF&ring=00D2FF&fire=0072FF&currStreakLabel=00D2FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0072FF" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coderr1ck&layout=compact&hide_border=true&bg_color=0A1128&title_color=00D2FF&text_color=E0F2FE&langs_count=8" alt="Top Languages" height="165"/>
 
