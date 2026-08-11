@@ -25,11 +25,11 @@
 <tr>
 <td width="65%" valign="top">
 
-- 💻 **Full-Stack Java + React Developer:** Experienced in building production-ready applications with **Spring Boot, Spring Security, React, and REST APIs**[cite: 2].
-- ⚙️ **DevOps & Cloud Native:** Skilled in **Linux Administration, Networking, Git/GitHub, Docker, Jenkins, and Kubernetes**, focusing on containerization and automated CI/CD[cite: 2].
-- 🛠️ **Research Intern:** Hands-on experience engineering microservices, AOP monitoring, and GDPR-compliant systems[cite: 2].
-- 🎓 **B.Tech Student** in Artificial Intelligence & Machine Learning at Oriental Institute of Science and Technology[cite: 2].
-- 🌐 **Live Portfolio:** [coderr1ck.github.io](https://coderr1ck.github.io/)[cite: 2]
+- 💻 **Full-Stack Java + React Developer:** Experienced in building production-ready applications with **Spring Boot, Spring Security, React, and REST APIs**.
+- ⚙️ **DevOps & Cloud Native:** Skilled in **Linux Administration, Networking, Git/GitHub, Docker, Jenkins, and Kubernetes**, focusing on containerization and automated CI/CD.
+- 🛠️ **Research Intern:** Hands-on experience engineering microservices, AOP monitoring, and GDPR-compliant systems.
+- 🎓 **B.Tech Student** in Artificial Intelligence & Machine Learning at Oriental Institute of Science and Technology.
+- 🌐 **Live Portfolio:** [coderr1ck.github.io](https://coderr1ck.github.io/)
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -56,19 +56,19 @@
 
 | Pillar | Skills & Tools |
 | :--- | :--- |
-| **☕ Full-Stack Development** | Java, Spring Boot, Spring Security, RESTful APIs, React, Tailwind CSS, Microservices Architecture[cite: 2]. |
-| **🌐 Networking & Linux** | Linux Administration, TCP/IP, OSI Model, DNS, SSH, IP Addressing, Bash Scripting[cite: 2]. |
-| **🐳 Containerization & Deployment** | Docker Containers, Multi-Stage Builds, Docker Compose, Kubernetes (Pods, Services, Deployments)[cite: 2]. |
-| **🔄 Version Control & CI/CD** | Git, GitHub Workflows, Jenkins Automated Build & Deployment Pipelines[cite: 2]. |
+| **☕ Full-Stack Development** | Java, Spring Boot, Spring Security, RESTful APIs, React, Tailwind CSS, Microservices Architecture. |
+| **🌐 Networking & Linux** | Linux Administration, TCP/IP, OSI Model, DNS, SSH, IP Addressing, Bash Scripting. |
+| **🐳 Containerization & Deployment** | Docker Containers, Multi-Stage Builds, Docker Compose, Kubernetes (Pods, Services, Deployments). |
+| **🔄 Version Control & CI/CD** | Git, GitHub Workflows, Jenkins Automated Build & Deployment Pipelines. |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0072FF,100:00D2FF&height=3&section=header" width="100%"/>
 
 ## 💼 Experience
 
-- **Research Intern (Java)** | *Netlink Software Pvt. Ltd.* `(Dec 2024 – Feb 2025)`[cite: 2]
-  - Built a **Notification Microservice** in Spring Boot utilizing Aspect-Oriented Programming (AOP) for root cause analysis and real-time MS Teams alerting[cite: 2].
-  - Analyzed DB hierarchy and resolved issues in a **GDPR-compliant user data deletion microservice**[cite: 2].
-- **Web Development Intern (Frontend)** | *CodSoft* `(Nov 2024 – Dec 2024)`[cite: 2]
+- **Research Intern (Java)** | *Netlink Software Pvt. Ltd.* `(Dec 2024 – Feb 2025)`
+  - Built a **Notification Microservice** in Spring Boot utilizing Aspect-Oriented Programming (AOP) for root cause analysis and real-time MS Teams alerting.
+  - Analyzed DB hierarchy and resolved issues in a **GDPR-compliant user data deletion microservice**.
+- **Web Development Intern (Frontend)** | *CodSoft* `(Nov 2024 – Dec 2024)`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0072FF,100:00D2FF&height=3&section=header" width="100%"/>
 
@@ -76,9 +76,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛍️ Clothify (Full-Stack E-Commerce)** | E-commerce web app featuring SSO authentication, product browsing, shopping cart, and Razorpay payment integration[cite: 2]. | `React` `Spring Boot` `Spring Security` `Razorpay` |
-| **🏛️ TedX OIST Official Website** | Official website designed and developed for the TedX OIST event[cite: 2]. | `React` `Tailwind CSS` `JavaScript` |
-| **🌐 Personal Developer Portfolio** | Interactive portfolio website showcasing projects and skill sets[cite: 2]. | `React` `Tailwind CSS` `GitHub Pages` |
+| **🛍️ Clothify (Full-Stack E-Commerce)** | E-commerce web app featuring SSO authentication, product browsing, shopping cart, and Razorpay payment integration. | `React` `Spring Boot` `Spring Security` `Razorpay` |
+| **🏛️ TedX OIST Official Website** | Official website designed and developed for the TedX OIST event. | `React` `Tailwind CSS` `JavaScript` |
+| **🌐 Personal Developer Portfolio** | Interactive portfolio website showcasing projects and skill sets. | `React` `Tailwind CSS` `GitHub Pages` |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1128,50:0072FF,100:00D2FF&height=3&section=header" width="100%"/>
 
@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coderr1ck&show_icons=true&hide_border=true&bg_color=0A1128&title_color=00D2FF&icon_color=0072FF&text_color=E0F2FE&ring_color=00D2FF" alt="GitHub Stats" height="165"/>
 
-<img src="https://streak-stats.demolab.com/?user=coderr1ck&hide_border=true&background=0A1128&stroke=00D2FF&ring=00D2FF&fire=0072FF&currStreakLabel=00D2FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0072FF" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=coderr1ck&hide_border=true&background=0A1128&stroke=00D2FF&ring=00D2FF&fire=0072FF&currStreakLabel=00D2FF&sideLabels=E0F2FE&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=0072FF" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coderr1ck&layout=compact&hide_border=true&bg_color=0A1128&title_color=00D2FF&text_color=E0F2FE&langs_count=8" alt="Top Languages" height="165"/>
 
